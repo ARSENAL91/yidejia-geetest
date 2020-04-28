@@ -90,6 +90,7 @@ class GeetestLib
 		$this->successProcess($challenge);
 		return 1;
 	}
+	
 
 	/**
 	 * @param $challenge
